@@ -10,11 +10,7 @@ Complete login registration backend system using Spring Boot.
 
 ## Diagram
 
-
-
-
-
-
+<img width="799" alt="Screen Shot 2022-06-03 at 6 12 31 PM" src="https://user-images.githubusercontent.com/105877485/171962202-109d1c9b-0a05-4a5f-94b2-67e55b58b91c.png">
 
 
 
