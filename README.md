@@ -1,4 +1,4 @@
-Email Verification System with Registration!
+## Email-Verification-System-with-Registration
 
 This is a full registration system with login and verification and it is implemented through Java and the Spring framework using SQL as a database. 
 
