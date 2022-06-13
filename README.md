@@ -1,4 +1,5 @@
-(https://user-images.githubusercontent.com/105877485/173288298-4f217eca-84f8-4c29-8444-b948047bb5f9.png)
+Email Verification System with Registration![image](https://user-images.githubusercontent.com/105877485/173288378-eb068b00-a823-4be3-a9b8-234aac1f7c9f.png)
+
 
 This is a full registration system with login and verification and it is implemented through Java and the Spring framework using SQL as a database. 
 
